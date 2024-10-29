@@ -2,3 +2,4 @@ venv/
 weather_key.txt
 .ipynb_checkpoints/
 spotify_keys.json
+.cache-katsully1
